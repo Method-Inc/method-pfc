@@ -4,7 +4,7 @@ Software for running controlled grow environments on embedded linux devices such
 
 ## Overview of Method's Changes
 
-See this [forum post](https://forum.openag.media.mit.edu/t/method-is-building-a-modular-pfc-in-london/4373/2) for a better understanding.
+See this [forum post](https://forum.openag.media.mit.edu/t/method-is-building-a-modular-pfc-in-london/4373/4) for a better understanding.
 
 
 ## OpenAg Overview
