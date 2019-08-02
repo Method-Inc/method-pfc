@@ -1,7 +1,13 @@
 # OpenAg Device Software
+# mPFC Edition
 Software for running controlled grow environments on embedded linux devices such Raspberry Pi and Beaglebone. 
 
-## Overview
+## Overview of Method's Changes
+
+See this [forum post](https://forum.openag.media.mit.edu/t/method-is-building-a-modular-pfc-in-london/4373/2) for a better understanding.
+
+
+## OpenAg Overview
 This software is designed to be used on any embedded linux devices. 
 It currently supports the Beaglebone, Raspberry Pi, and Standalone Linux-machines with a usb-to-i2c dongle.
 It can easily be adaped to a new platform such as a Dragonboard 410C or an Orange Pi.
